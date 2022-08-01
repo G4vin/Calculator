@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
         println(nambari)
 
     println("My character range is :")
-
+    
     for (char in 'd'..'x')
         println(char)
 
